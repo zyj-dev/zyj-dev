@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I'm glad you're here. You can also check out my [homepage](https://zhangyujiang.cn). 😊
+Welcome to my GitHub profile! I'm glad you're here. 😄
 
 <!--
 **yujiang-zhang/yujiang-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
